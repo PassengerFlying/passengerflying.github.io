@@ -1,6 +1,6 @@
 site_name: Passenger Flying # Change this to your site name
 site_description: Flying on intuition
-site_url: https://passengerflying.com/ # Change this to your site URL
+site_url: https://passengerflying.github.io/ # Change this to your site URL
 
 theme:
     name: 'material'
