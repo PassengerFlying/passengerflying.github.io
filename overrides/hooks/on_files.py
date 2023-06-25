@@ -1,6 +1,7 @@
 import json
 import posixpath
 import os
+from pathlib import PurePosixPath
 from mkdocs.structure.files import Files
 from mkdocs.config.defaults import MkDocsConfig
 

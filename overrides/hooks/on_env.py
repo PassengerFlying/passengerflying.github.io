@@ -5,6 +5,7 @@ import re
 import urllib.parse
 import datetime
 from pathlib import Path
+import json
 
 from babel.dates import format_date
 from dateutil import parser
@@ -14,10 +15,8 @@ def obsidian_graph():
     """Generates a graph of the Obsidian vault."""
     # pylint: disable=import-outside-toplevel
     import obsidiantools.api as otools
-
     # pylint: disable=import-outside-toplevel``
     from pyvis.network import Network
-
     log = logging.getLogger("mkdocs.plugins." + __name__)
     log.info("[OBSIDIAN GRAPH] Generating graph...")
     vault_path = Path(Path.cwd(), "docs")
@@ -35,7 +34,6 @@ def obsidian_graph():
     log.info("[OBSIDIAN GRAPH] Graph generated!")
     return ""
 
-
 def get_last_part_URL(url):
     """Get the last part of an URL.
 
@@ -49,7 +47,6 @@ def get_last_part_URL(url):
         url = url + "/"
     head, tail = os.path.split(url)
     return "/" + tail if tail != "" else ""
-
 
 def regex_replace(s, find, replace):
     """A non-optimal implementation of a regex filter"""
@@ -173,10 +170,11 @@ def value_in_frontmatter(key, metadata):
     if key in metadata:
         return metadata[key]
     else:
-        return None
+        return None    
 
 
 def on_env(env, config, files, **kwargs):
+
     if config["extra"].get("generate_graph", True):
         obsidian_graph()
     env.filters["convert_time"] = time_time
