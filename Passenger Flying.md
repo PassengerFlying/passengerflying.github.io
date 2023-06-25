@@ -6,7 +6,7 @@ share: true
 comments: false
 path: /
 created: 2023-04-13T21:38
-updated: 2023-06-26T00:37
+updated: 2023-06-26T00:46
 ---
 # About SIDS, STARS and other distractions.
 
@@ -16,11 +16,10 @@ I created Passenger Flying to collect my experiences with flightsims. It's just 
 So far this site is for the [[Stream Deck]] profile I created for the ToLiss A319. Together with the plugin [[X-KeyPad]] you can use any Stream Deck to control your aircraft.
 
 ### Why the name?
-
 When two pilots fly a plane, one is the _pilot flying_ and the other is the _pilot monitoring_. Since I have the experience level of neither, I'd like to think of a situation where the passenger needs to fly the plane and what that would be like. So my designation is _passenger flying_.
 
 ### The structure of this site
-This is a [Digital Garden](https://link.passengerflying.com/RryLqc), not a blog, not even a website I'd say. It's a collection of notes and they're constantly changing. To create it I use [Obsidian](https://link.passengerflying.com/SBqoRq) and the [Digital Garden plugin](https://link.passengerflying.com/oqH3sF).
+This is a [Digital Garden](https://link.passengerflying.com/RryLqc), not a blog. It's a collection of notes and they're constantly changing. To create it I use [Obsidian](https://link.passengerflying.com/SBqoRq) and the [Digital Garden plugin](https://link.passengerflying.com/oqH3sF).
 
 ## Overview of current Stream Deck profiles
 - [[A319 Stream Deck profiles|A319 Stream Deck profiles]]
