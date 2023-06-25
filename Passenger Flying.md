@@ -7,7 +7,10 @@ comments: false
 path: /
 created: 2023-04-13T21:38
 updated: 2023-06-26T00:46
+tags:
+  - home
 ---
+
 # About SIDS, STARS and other distractions.
 
 ## Intro
@@ -40,3 +43,5 @@ If you own one of these and would love to see a profile for it, please let me kn
 - [[Aerobask Epic Victory]]
 - [[IniBuilds Airbus A300]] (in beta en very buggy!)
 - [[IniBuilds Airbus Beluga]] (in beta en very buggy!)
+
+#home
