@@ -25,7 +25,7 @@ When two pilots fly a plane, one is the _pilot flying_ and the other is the _
 This is a [Digital Garden](https://link.passengerflying.com/RryLqc), not a blog. It's a collection of notes and they're constantly changing. To create it I use [Obsidian](https://link.passengerflying.com/SBqoRq) and the [Digital Garden plugin](https://link.passengerflying.com/oqH3sF).
 
 ## Overview of current Stream Deck profiles
-- [[A319 Stream Deck profiles|A319 Stream Deck profiles]]
+- [[./plugins/X-KeyPad/ToLiss A319/A319 Stream Deck profiles|A319 Stream Deck profiles]]
 
 ## Planes I own that I might create profiles for
 If you own one of these and would love to see a profile for it, please let me know.
