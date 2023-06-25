@@ -3,8 +3,10 @@ dg-publish: true
 dg-home: true
 dg-pinned: true
 share: true
+comments: false
+path: /
 created: 2023-04-13T21:38
-updated: 2023-06-25T23:41
+updated: 2023-06-26T00:37
 ---
 # About SIDS, STARS and other distractions.
 
