@@ -1,9 +1,7 @@
 ---
-dg-publish: true
-dg-pinned: true
 share: true
 created: 2023-04-15T18:41
-updated: 2023-06-26T01:24
+updated: 2023-06-26T21:57
 title: ToLiss A319 Stream Deck profiles
 ---
 # Instructions

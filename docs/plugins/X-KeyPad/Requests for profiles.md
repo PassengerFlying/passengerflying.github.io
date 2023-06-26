@@ -1,7 +1,7 @@
 ---
-dg-publish: true
+share: true
 created: 2023-04-15T17:33
-updated: 2023-04-15T18:11
+updated: 2023-06-26T21:59
 ---
 Since I own these aircraft, chances are I might create profiles for them. If you think one of these should be done first, let me know below (no guarantees! 😀)
 
