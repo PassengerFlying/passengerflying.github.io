@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-hide: true
+share: true
 created: 2023-04-19T11:24
-updated: 2023-06-24T22:05
+updated: 2023-06-26T21:56
 ---
 ![[../../../../passengerflying-0008.png|passengerflying-0008.png]]
 `ANN LT` is fully functional. When set to `TEST`, all the lights of all the buttons will turn on.
