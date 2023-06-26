@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-hide: true
+share: true
 created: 2023-05-13T15:18
-updated: 2023-05-13T15:47
+updated: 2023-06-26T21:54
 ---
 Here's an overview of all the pages so far:
 
