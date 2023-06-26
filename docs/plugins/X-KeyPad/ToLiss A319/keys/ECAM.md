@@ -1,6 +1,5 @@
 ---
-dg-publish: true
-dg-hide: true
+share: true
 created: 2023-04-19T11:26
 updated: 2023-06-24T22:05
 ---
