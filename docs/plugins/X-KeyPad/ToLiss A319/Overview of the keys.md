@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 created: 2023-04-16T21:01
 updated: 2023-06-08T16:48
 ---
@@ -13,7 +13,7 @@ To add keys to your Stream Deck, you need the function names. A list of keys/enc
 ![[./keys/COMs|COMs]]
 
 ## Lights (and baro)
-![[./encoders/Lights|Lights]]
+![[../../../../Lights|Lights]]
 
 # Stream Deck (all versions) keys
 ## Elec
