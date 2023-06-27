@@ -3,7 +3,7 @@ share: true
 created: 2023-04-16T21:31
 updated: 2023-06-26T21:57
 ---
-[[../../../../../List of encoders and their names|Click here for a list of encoders]]
+[[../../../List of encoders and their names|Click here for a list of encoders]]
 
 ## Elec
 | Key/Encoder | Identifier     |

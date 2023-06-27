@@ -14,7 +14,7 @@ updated: 2023-06-26T21:58
 Any Stream Deck will work, but you get most of the fun with at least a Stream Deck XL and then a Stream Deck Plus.
 
 > [!info] Useability with other ToLiss aircraft
-I only own the [ToLiss A319](https://bit.ly/3Uyu7zB), but it is very plausible that ToLiss uses the same [[../../../../ToLiss Datarefs|datarefs]] for the A321, A320 and A340. This means that some keys might also work for those aircraft.
+I only own the [ToLiss A319](https://bit.ly/3Uyu7zB), but it is very plausible that ToLiss uses the same [[../../../ToLiss Datarefs|datarefs]] for the A321, A320 and A340. This means that some keys might also work for those aircraft.
 
 > [!warning] Pay attention when adding pages
-[[../You may loose keys on your Stream Deck profile|You may loose keys on your Stream Deck profile]].
+[[./You may loose keys on your Stream Deck profile|You may loose keys on your Stream Deck profile]].
