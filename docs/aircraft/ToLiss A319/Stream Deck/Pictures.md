@@ -7,43 +7,43 @@ Here's an overview of all the pages so far:
 
 # Stream Deck Plus
 ## Autopilot
-![[../../../autopilot.png|autopilot.png]]
+![[../../../images/autopilot.png|autopilot.png]]
 
 ## Autopilot (2)
-![[../../../autopilot-rose.png|autopilot-rose.png]]
+![[../../../images/autopilot-rose.png|autopilot-rose.png]]
 
 ## Comms
-![[../../../coms.png|coms.png]]
+![[../../../images/coms.png|coms.png]]
 
 ## Engines
-![[../../../engines.png|engines.png]]
+![[../../../images/engines.png|engines.png]]
 
 ## Engines Fire Tests
-![[../../../fire-test.png|fire-test.png]]
+![[../../../images/fire-test.png|fire-test.png]]
 
 ## ECAM
-![[../../../ecam.png|ecam.png]]
+![[../../../images/ecam.png|ecam.png]]
 
 ## Air Cond
-![[../../../air-cond.png|air-cond.png]]
+![[../../../images/air-cond.png|air-cond.png]]
 
 ## Anti-Ice and Lights
-![[../../../anti-ice_lights.png|anti-ice_lights.png]]
+![[../../../images/anti-ice_lights.png|anti-ice_lights.png]]
 
 ## Hyd and Fuel
-![[../../../hyd-fuel.png|hyd-fuel.png]]
+![[../../../images/hyd-fuel.png|hyd-fuel.png]]
 
 ## ELEC
-![[../../../elec.png|elec.png]]
+![[../../../images/elec.png|elec.png]]
 
 ## Various
-![[../../../various.png|various.png]]
+![[../../../images/various.png|various.png]]
 
 ## Various (Cameras)
-![[../../../cameras.png|cameras.png]]
+![[../../../images/cameras.png|cameras.png]]
 
 ## Various (Doors)
-![[../../../doors.png|doors.png]]
+![[../../../images/doors.png|doors.png]]
 
 ## Pedestral
-![[../../../pedestral.png|pedestral.png]]
+![[../../../images/pedestral.png|pedestral.png]]
