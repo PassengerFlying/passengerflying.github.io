@@ -1,11 +1,11 @@
 ---
-dg-publish: true
-dg-pinned: true
-dg-home: true
+share: true
 comments: false
+category: /
 path: /
 created: 2023-04-13T21:38
-updated: 2023-06-26T16:01
+updated: 2023-06-27T11:46
+title: Passenger Flying
 tags:
   - home
 ---
