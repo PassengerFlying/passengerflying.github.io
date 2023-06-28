@@ -12,11 +12,11 @@ For the titles of the keys I use color `#FFA256`.
 
 ## Size
 For keys with just one line I use size `10`.
-![[../../bat1.png|bat1.png]]
-![[../../size10.png|size10.png]]
+![[../../images/bat1.png|bat1.png]]
+![[../../images/size10.png|size10.png]]
 And for two lines `9`.
-![[../../anti-ice-eng1.png|anti-ice-eng1.png]]
-![[../../size9.png|size9.png]]
+![[../../images/anti-ice-eng1.png|anti-ice-eng1.png]]
+![[../../images/size9.png|size9.png]]
 The buttons for the autopilot have size `15`.
-![[../../ap_1.png|ap_1]]
-![[../../size15.png|size15.png]]
+![[../../images/ap_1.png|ap_1]]
+![[../../images/size15.png|size15.png]]
