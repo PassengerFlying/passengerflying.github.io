@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-04-16T21:01
-updated: 2023-06-29T13:10
+updated: 2023-06-29T15:46
 ---
-To add keys to your Stream Deck, you need their function names. A list of keys/encoders and their names in [[X-KeyPad]] is [[./List of keys and their names|here]].
+(A list of keys/encoders and their names in [[X-KeyPad]] is [[./List of keys and their names|here]] and [[./List of encoders and their names|here]]).
 
 # Stream Deck Plus encoders
 ## Autopilot
@@ -31,7 +31,7 @@ The rose is also on this page. It's quite sensitive, but will start again when r
 
 ### MFD on the other Stream Decks
 ![[../../images/MFD.png|MFD.png]]
-You can find this page under the [[Overview of the keys and encoders#Autopilot|Autopilot]].
+You can find this page under the [[Overview of the pages in the Stream Deck profile#Autopilot|Autopilot]].
 
 ## COMs
 **On the Stream Deck Plus**
